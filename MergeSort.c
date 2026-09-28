@@ -214,7 +214,7 @@ void mergeSort(int vetor[], int inicio, int fim)
 
 int main()
 {
-    int vetor[] = {38, 27, 43, 3, 9, 82, 10, 200};
+    int vetor[] = {2,13,100,1};
 
     int tamanho;
 
